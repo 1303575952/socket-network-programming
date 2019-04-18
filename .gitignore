@@ -29,3 +29,5 @@ hs_err_pid*
 /SocketDemo-L-2-3/.gradle/buildOutputCleanup/buildOutputCleanup.lock
 /SocketDemo-L-2-3/.gradle/buildOutputCleanup/cache.properties
 /SocketDemo-L-2-3/.gradle/buildOutputCleanup/outputFiles.bin
+/SocketDemo-L3/.idea
+/SocketDemo-L3/.gradle/
