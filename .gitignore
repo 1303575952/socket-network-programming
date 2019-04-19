@@ -21,13 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/SocketDemo-L-2-3/.idea
-/SocketDemo-L-2-3/.gradle/4.4/fileHashes
-/SocketDemo-L-2-3/.gradle/4.4/fileChanges/last-build.bin
-/SocketDemo-L-2-3/.gradle/4.4/taskHistory/taskHistory.bin
-/SocketDemo-L-2-3/.gradle/4.4/taskHistory/taskHistory.lock
-/SocketDemo-L-2-3/.gradle/buildOutputCleanup/buildOutputCleanup.lock
-/SocketDemo-L-2-3/.gradle/buildOutputCleanup/cache.properties
-/SocketDemo-L-2-3/.gradle/buildOutputCleanup/outputFiles.bin
-/SocketDemo-L3/.idea
-/SocketDemo-L3/.gradle/
+/SocketDemo-L2-3/.idea
+/SocketDemo-L2-3/.gradle/
+/SocketDemo-L3-5/.idea
+/SocketDemo-L3-5/.gradle/
